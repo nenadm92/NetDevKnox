@@ -14,3 +14,5 @@ interfaces:
     ip_address: 172.16.16.1/30
   - name: GigabitEthernet3
     ip_address: 10.99.99.9/30
+  - name: GigabitEthernet4
+    ip_address: 10.99.98.9/30
